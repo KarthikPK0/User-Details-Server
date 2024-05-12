@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Wick",
+      "username": "John",
+      "email": "John123@gmail.com",
+      "phone": "8085656848"
+    },
+    {
+      "id": "2",
+      "name": "Sarah Connor",
+      "username": "Sarah",
+      "email": "sarahc@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": "3",
+      "name": "Ellen Ripley",
+      "username": "Ellen",
+      "email": "ripleyellen@gmail.com",
+      "phone": "9876543210"
+    },
+    {
+      "id": "4",
+      "name": "Neo Anderson",
+      "username": "Neo",
+      "email": "theone@gmail.com",
+      "phone": "5551234567"
+    },
+    {
+      "id": "5",
+      "name": "Alice Johnson",
+      "username": "Alice",
+      "email": "alicej@gmail.com",
+      "phone": "3219876543"
+    },
+    {
+      "id": "6",
+      "name": "Luke Skywalker",
+      "username": "Luke",
+      "email": "jedi_master@gmail.com",
+      "phone": "7778889999"
+    },
+    {
+      "id": "7",
+      "name": "Indiana Jones",
+      "username": "Indy",
+      "email": "adventurer@gmail.com",
+      "phone": "4567890123"
+    },
+    {
+      "id": "8",
+      "name": "Elliot Alderson",
+      "username": "Elliot",
+      "email": "mrrobot@gmail.com",
+      "phone": "5555555555"
+    },
+    {
+      "id": "9",
+      "name": "Leia Organa",
+      "username": "Leia",
+      "email": "princessleia@gmail.com",
+      "phone": "9998887776"
+    },
+    {
+      "id": "10",
+      "name": "James Bond",
+      "username": "Bond",
+      "email": "007@gmail.com",
+      "phone": "0070070070"
+    }
+  ]
+}
